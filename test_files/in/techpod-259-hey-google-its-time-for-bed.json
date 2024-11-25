@@ -1,0 +1,5559 @@
+{
+    "metadata": {
+        "filename": "techpod-259-hey-google-its-time-for-bed.mp3",
+        "numUtterances": 95,
+        "numWords": 697,
+        "speakers": [
+            "Brad",
+            "Will"
+        ]
+    },
+    "phrases": [
+        {
+            "phraseIDX": 0,
+            "text": " They were recording at night.",
+            "startTime": 0.0,
+            "endTime": 1.2,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 1,
+            "text": " That's weird.",
+            "startTime": 1.68,
+            "endTime": 2.64,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 2,
+            "text": " Night cast.",
+            "startTime": 2.94,
+            "endTime": 3.6,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 3,
+            "text": " I almost got trapped in my house today, man.",
+            "startTime": 4.1,
+            "endTime": 6.7,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 4,
+            "text": " What?",
+            "startTime": 6.92,
+            "endTime": 7.16,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 5,
+            "text": " They're digging up the sewer in front of my house.",
+            "startTime": 7.76,
+            "endTime": 9.96,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 6,
+            "text": " I've heard.",
+            "startTime": 10.22,
+            "endTime": 10.82,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 7,
+            "text": " Like, literally.",
+            "startTime": 11.06,
+            "endTime": 11.74,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 8,
+            "text": " I assume there's going to be multiple.",
+            "startTime": 11.96,
+            "endTime": 13.780000000000001,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 9,
+            "text": " Because at some point, they're going to have to dig up the gas lines, too.",
+            "startTime": 13.94,
+            "endTime": 16.22,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 10,
+            "text": " Because they're also the same age as the sewer lines.",
+            "startTime": 16.28,
+            "endTime": 18.28,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 11,
+            "text": " And I assume if the sewer lines are bad, also that means we have gas line problems in the future.",
+            "startTime": 18.6,
+            "endTime": 23.18,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 12,
+            "text": " It's not what you want.",
+            "startTime": 24.400000000000002,
+            "endTime": 25.400000000000002,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 13,
+            "text": " Public gas line problems went from theoretical to terrifyingly real.",
+            "startTime": 25.400000000000002,
+            "endTime": 29.16,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 14,
+            "text": " Do you remember?",
+            "startTime": 29.32,
+            "endTime": 29.7,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 15,
+            "text": " Yeah, the night of the live show.",
+            "startTime": 30.0,
+            "endTime": 31.56,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 16,
+            "text": " Big live live show live.",
+            "startTime": 31.86,
+            "endTime": 32.74,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 17,
+            "text": " Was that 2010 or 2011?",
+            "startTime": 32.88,
+            "endTime": 34.28,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 18,
+            "text": " About 12, 13, 14 years ago?",
+            "startTime": 34.46,
+            "endTime": 36.1,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 19,
+            "text": " It was one of the.",
+            "startTime": 36.32,
+            "endTime": 37.58,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 20,
+            "text": " It was September either 2010 or 2011.",
+            "startTime": 37.68,
+            "endTime": 40.08,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 21,
+            "text": " Because it was when we.",
+            "startTime": 40.38,
+            "endTime": 41.24,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 22,
+            "text": " It was literally the night we recorded the big live live show.",
+            "startTime": 41.44,
+            "endTime": 43.980000000000004,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 23,
+            "text": " I remember distinctly, like, kind of being done with a big live live show.",
+            "startTime": 44.06,
+            "endTime": 47.2,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 24,
+            "text": " And, like, everybody was, like, cracking open a beer and celebrating.",
+            "startTime": 47.2,
+            "endTime": 50.480000000000004,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 25,
+            "text": " And then, like, oh, did you see this news from San Bruno?",
+            "startTime": 50.480000000000004,
+            "endTime": 52.8,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 26,
+            "text": " Yeah, that's just over the hill from my house, you know.",
+            "startTime": 53.18,
+            "endTime": 55.18,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 27,
+            "text": " Yikes.",
+            "startTime": 55.5,
+            "endTime": 55.86,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 28,
+            "text": " Like, it's like I could hike there.",
+            "startTime": 56.120000000000005,
+            "endTime": 58.019999999999996,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 29,
+            "text": " That's like.",
+            "startTime": 58.44,
+            "endTime": 58.879999999999995,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 30,
+            "text": " That is like such existential terror that you might as well not even think about it because it's so unpredictable and unstoppable.",
+            "startTime": 58.88,
+            "endTime": 65.36,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 31,
+            "text": " If it happens that we're talking about a gas line explosion.",
+            "startTime": 65.36,
+            "endTime": 67.98,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 32,
+            "text": " Yeah.",
+            "startTime": 68.66,
+            "endTime": 69.06,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 33,
+            "text": " This is not the cheeriest cold open ever.",
+            "startTime": 69.32000000000001,
+            "endTime": 71.28,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 34,
+            "text": " No, but.",
+            "startTime": 71.68,
+            "endTime": 72.2,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 35,
+            "text": " But.",
+            "startTime": 72.44,
+            "endTime": 72.56,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 36,
+            "text": " Well.",
+            "startTime": 72.92,
+            "endTime": 73.3,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 37,
+            "text": " Yeah.",
+            "startTime": 73.96000000000001,
+            "endTime": 74.3,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 38,
+            "text": " Yeah.",
+            "startTime": 74.3,
+            "endTime": 74.38,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 39,
+            "text": " It was bad.",
+            "startTime": 74.38,
+            "endTime": 74.88,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 40,
+            "text": " It was.",
+            "startTime": 75.0,
+            "endTime": 75.25999999999999,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 41,
+            "text": " They blew up a good part of a block, basically, when it went.",
+            "startTime": 75.38,
+            "endTime": 77.82,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 42,
+            "text": " Yeah.",
+            "startTime": 77.82,
+            "endTime": 77.98,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 43,
+            "text": " The true.",
+            "startTime": 78.34,
+            "endTime": 78.6,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 44,
+            "text": " But the sewer line was just a mild inconvenience.",
+            "startTime": 78.84,
+            "endTime": 80.78,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 45,
+            "text": " Yeah.",
+            "startTime": 81.67999999999999,
+            "endTime": 81.82,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 46,
+            "text": " So they were supposed to start working.",
+            "startTime": 81.82,
+            "endTime": 83.39999999999999,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 47,
+            "text": " Like, this is the kind of civic thing that annoys me.",
+            "startTime": 83.58,
+            "endTime": 86.1,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 48,
+            "text": " Right.",
+            "startTime": 86.1,
+            "endTime": 86.39999999999999,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 49,
+            "text": " Because we got a note on the door like three days before this happened.",
+            "startTime": 86.8,
+            "endTime": 90.32,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 50,
+            "text": " And they were like, hey, we're going to be doing some work on your street.",
+            "startTime": 90.32,
+            "endTime": 92.97999999999999,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 51,
+            "text": " We're going to take up all the street parking spaces, which doesn't affect us because we have one car.",
+            "startTime": 93.5,
+            "endTime": 97.84,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 52,
+            "text": " So I was like, that's fine.",
+            "startTime": 98.08,
+            "endTime": 99.22,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 53,
+            "text": " They're like, if you cannot run water between eight and five, that would be convenient because we're going to have sewer open.",
+            "startTime": 99.52000000000001,
+            "endTime": 106.04,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 54,
+            "text": " And I was like, OK, so no dumping between eight and five or happy to oblige.",
+            "startTime": 106.10000000000001,
+            "endTime": 110.08000000000001,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 55,
+            "text": " If you do, somebody is going to get the full view.",
+            "startTime": 110.08,
+            "endTime": 112.39999999999999,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 56,
+            "text": " That's fine.",
+            "startTime": 112.5,
+            "endTime": 112.96,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 57,
+            "text": " I don't care.",
+            "startTime": 113.0,
+            "endTime": 113.48,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 58,
+            "text": " And then and then they're like, but it shouldn't impact.",
+            "startTime": 114.82,
+            "endTime": 118.2,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 59,
+            "text": " Like, you should get in and out all the time.",
+            "startTime": 118.36,
+            "endTime": 119.9,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 60,
+            "text": " It's no big deal.",
+            "startTime": 119.94,
+            "endTime": 120.56,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 61,
+            "text": " And I was like, that's OK.",
+            "startTime": 120.9,
+            "endTime": 121.67999999999999,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 62,
+            "text": " That seems like minor.",
+            "startTime": 121.74,
+            "endTime": 122.7,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 63,
+            "text": " And then the each day this week when I needed to go out, it's been like we got to move like four backhoes and a bunch of pipes and truck.",
+            "startTime": 122.94,
+            "endTime": 132.07999999999998,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 64,
+            "text": " And I feel like an asshole.",
+            "startTime": 132.16,
+            "endTime": 133.34,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 65,
+            "text": " But also they didn't tell us like I would have parked on a different street if it was a problem.",
+            "startTime": 133.66,
+            "endTime": 137.38,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 66,
+            "text": " Except there's no street parking because it's specific and everybody has too many cars.",
+            "startTime": 137.38,
+            "endTime": 141.42,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 67,
+            "text": " So anyway, I'm grumpy.",
+            "startTime": 141.6,
+            "endTime": 143.92,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 68,
+            "text": " Prisoner in your own home.",
+            "startTime": 144.4,
+            "endTime": 145.44,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 69,
+            "text": " Look, I went up.",
+            "startTime": 146.34,
+            "endTime": 147.18,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 70,
+            "text": " I went out this morning because it's supposed to start at eight and I went out at 755 to move the car and they'd already blocked off my driveway.",
+            "startTime": 147.26,
+            "endTime": 153.35999999999999,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 71,
+            "text": " I was like, hey, man, you got to move the pipe.",
+            "startTime": 153.48,
+            "endTime": 154.62,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 72,
+            "text": " I got to get out.",
+            "startTime": 154.68,
+            "endTime": 155.35999999999999,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 73,
+            "text": " That's just uncouth.",
+            "startTime": 156.28,
+            "endTime": 157.26,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 74,
+            "text": " Yeah.",
+            "startTime": 157.56,
+            "endTime": 157.8,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 75,
+            "text": " Like you're five minutes early.",
+            "startTime": 157.9,
+            "endTime": 159.22,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 76,
+            "text": " It's fine.",
+            "startTime": 159.4,
+            "endTime": 159.98,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 77,
+            "text": " Whatever.",
+            "startTime": 160.06,
+            "endTime": 160.34,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 78,
+            "text": " But move the fucking pipe.",
+            "startTime": 160.34,
+            "endTime": 161.42,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 79,
+            "text": " I don't want to hear anything about it.",
+            "startTime": 161.48,
+            "endTime": 162.68,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 80,
+            "text": " And no water between eight and five.",
+            "startTime": 162.88,
+            "endTime": 165.46,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 81,
+            "text": " That's kind of a tall order, I think.",
+            "startTime": 165.46,
+            "endTime": 167.42000000000002,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 82,
+            "text": " But well, I mean, I guess specifically it's don't put anything in the sewer between eight and five.",
+            "startTime": 167.78,
+            "endTime": 171.76000000000002,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 83,
+            "text": " I see.",
+            "startTime": 172.10000000000002,
+            "endTime": 172.42000000000002,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 84,
+            "text": " So like, you know, I took a shower.",
+            "startTime": 172.84,
+            "endTime": 174.4,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 85,
+            "text": " I flushed the toilet.",
+            "startTime": 175.66,
+            "endTime": 177.4,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 86,
+            "text": " OK.",
+            "startTime": 178.06,
+            "endTime": 178.36,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 87,
+            "text": " I sent him a gift.",
+            "startTime": 178.64000000000001,
+            "endTime": 179.42000000000002,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 88,
+            "text": " I see.",
+            "startTime": 179.72,
+            "endTime": 180.06,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 89,
+            "text": " Well, I expressed my displeasure the only way I know how with feces.",
+            "startTime": 181.28,
+            "endTime": 184.78,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 90,
+            "text": " Welcome.",
+            "startTime": 184.78,
+            "endTime": 186.5,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 91,
+            "text": " Welcome to Brad and Will made a tech pod.",
+            "startTime": 186.5,
+            "endTime": 216.28,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 92,
+            "text": " I'm Will.",
+            "startTime": 216.28,
+            "endTime": 216.68,
+            "speaker": "Will"
+        },
+        {
+            "phraseIDX": 93,
+            "text": " I'm Brad.",
+            "startTime": 216.94,
+            "endTime": 217.58,
+            "speaker": "Brad"
+        },
+        {
+            "phraseIDX": 94,
+            "text": " Yeah, that's a hell of a cold open, huh?",
+            "startTime": 218.08,
+            "endTime": 219.78,
+            "speaker": "Will"
+        }
+    ],
+    "words": [
+        {
+            "wordIDX": 0,
+            "text": "They",
+            "startTime": 0.0,
+            "endTime": 0.13,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 1,
+            "text": "were",
+            "startTime": 0.27,
+            "endTime": 0.4,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 2,
+            "text": "recording",
+            "startTime": 0.53,
+            "endTime": 0.67,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 3,
+            "text": "at",
+            "startTime": 0.8,
+            "endTime": 0.93,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 4,
+            "text": "night.",
+            "startTime": 1.07,
+            "endTime": 1.2,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 5,
+            "text": "That's",
+            "startTime": 1.68,
+            "endTime": 2.0,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 6,
+            "text": "weird.",
+            "startTime": 2.32,
+            "endTime": 2.64,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 7,
+            "text": "Night",
+            "startTime": 2.94,
+            "endTime": 3.16,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 8,
+            "text": "cast.",
+            "startTime": 3.38,
+            "endTime": 3.6,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 9,
+            "text": "I",
+            "startTime": 4.1,
+            "endTime": 4.25,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 10,
+            "text": "almost",
+            "startTime": 4.41,
+            "endTime": 4.56,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 11,
+            "text": "got",
+            "startTime": 4.71,
+            "endTime": 4.86,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 12,
+            "text": "trapped",
+            "startTime": 5.02,
+            "endTime": 5.17,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 13,
+            "text": "in",
+            "startTime": 5.32,
+            "endTime": 5.48,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 14,
+            "text": "my",
+            "startTime": 5.63,
+            "endTime": 5.78,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 15,
+            "text": "house",
+            "startTime": 5.94,
+            "endTime": 6.09,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 16,
+            "text": "today,",
+            "startTime": 6.24,
+            "endTime": 6.39,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 17,
+            "text": "man.",
+            "startTime": 6.55,
+            "endTime": 6.7,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 18,
+            "text": "What?",
+            "startTime": 6.92,
+            "endTime": 7.16,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 19,
+            "text": "They're",
+            "startTime": 7.76,
+            "endTime": 7.88,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 20,
+            "text": "digging",
+            "startTime": 7.99,
+            "endTime": 8.11,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 21,
+            "text": "up",
+            "startTime": 8.22,
+            "endTime": 8.34,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 22,
+            "text": "the",
+            "startTime": 8.45,
+            "endTime": 8.57,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 23,
+            "text": "sewer",
+            "startTime": 8.69,
+            "endTime": 8.8,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 24,
+            "text": "in",
+            "startTime": 8.92,
+            "endTime": 9.03,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 25,
+            "text": "front",
+            "startTime": 9.15,
+            "endTime": 9.27,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 26,
+            "text": "of",
+            "startTime": 9.38,
+            "endTime": 9.5,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 27,
+            "text": "my",
+            "startTime": 9.61,
+            "endTime": 9.73,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 28,
+            "text": "house.",
+            "startTime": 9.84,
+            "endTime": 9.96,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 29,
+            "text": "I've",
+            "startTime": 10.22,
+            "endTime": 10.42,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 30,
+            "text": "heard.",
+            "startTime": 10.62,
+            "endTime": 10.82,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 31,
+            "text": "Like,",
+            "startTime": 11.06,
+            "endTime": 11.29,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 32,
+            "text": "literally.",
+            "startTime": 11.51,
+            "endTime": 11.74,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 33,
+            "text": "I",
+            "startTime": 11.96,
+            "endTime": 12.1,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 34,
+            "text": "assume",
+            "startTime": 12.24,
+            "endTime": 12.38,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 35,
+            "text": "there's",
+            "startTime": 12.52,
+            "endTime": 12.66,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 36,
+            "text": "going",
+            "startTime": 12.8,
+            "endTime": 12.94,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 37,
+            "text": "to",
+            "startTime": 13.08,
+            "endTime": 13.22,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 38,
+            "text": "be",
+            "startTime": 13.36,
+            "endTime": 13.5,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 39,
+            "text": "multiple.",
+            "startTime": 13.64,
+            "endTime": 13.78,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 40,
+            "text": "Because",
+            "startTime": 13.94,
+            "endTime": 14.02,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 41,
+            "text": "at",
+            "startTime": 14.1,
+            "endTime": 14.18,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 42,
+            "text": "some",
+            "startTime": 14.25,
+            "endTime": 14.33,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 43,
+            "text": "point,",
+            "startTime": 14.41,
+            "endTime": 14.49,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 44,
+            "text": "they're",
+            "startTime": 14.57,
+            "endTime": 14.65,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 45,
+            "text": "going",
+            "startTime": 14.73,
+            "endTime": 14.8,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 46,
+            "text": "to",
+            "startTime": 14.88,
+            "endTime": 14.96,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 47,
+            "text": "have",
+            "startTime": 15.04,
+            "endTime": 15.12,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 48,
+            "text": "to",
+            "startTime": 15.2,
+            "endTime": 15.28,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 49,
+            "text": "dig",
+            "startTime": 15.36,
+            "endTime": 15.43,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 50,
+            "text": "up",
+            "startTime": 15.51,
+            "endTime": 15.59,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 51,
+            "text": "the",
+            "startTime": 15.67,
+            "endTime": 15.75,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 52,
+            "text": "gas",
+            "startTime": 15.83,
+            "endTime": 15.91,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 53,
+            "text": "lines,",
+            "startTime": 15.98,
+            "endTime": 16.06,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 54,
+            "text": "too.",
+            "startTime": 16.14,
+            "endTime": 16.22,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 55,
+            "text": "Because",
+            "startTime": 16.28,
+            "endTime": 16.39,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 56,
+            "text": "they're",
+            "startTime": 16.49,
+            "endTime": 16.6,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 57,
+            "text": "also",
+            "startTime": 16.7,
+            "endTime": 16.81,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 58,
+            "text": "the",
+            "startTime": 16.91,
+            "endTime": 17.02,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 59,
+            "text": "same",
+            "startTime": 17.12,
+            "endTime": 17.23,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 60,
+            "text": "age",
+            "startTime": 17.33,
+            "endTime": 17.44,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 61,
+            "text": "as",
+            "startTime": 17.54,
+            "endTime": 17.65,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 62,
+            "text": "the",
+            "startTime": 17.75,
+            "endTime": 17.86,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 63,
+            "text": "sewer",
+            "startTime": 17.96,
+            "endTime": 18.07,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 64,
+            "text": "lines.",
+            "startTime": 18.17,
+            "endTime": 18.28,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 65,
+            "text": "And",
+            "startTime": 18.6,
+            "endTime": 18.72,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 66,
+            "text": "I",
+            "startTime": 18.83,
+            "endTime": 18.95,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 67,
+            "text": "assume",
+            "startTime": 19.07,
+            "endTime": 19.19,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 68,
+            "text": "if",
+            "startTime": 19.3,
+            "endTime": 19.42,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 69,
+            "text": "the",
+            "startTime": 19.54,
+            "endTime": 19.66,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 70,
+            "text": "sewer",
+            "startTime": 19.77,
+            "endTime": 19.89,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 71,
+            "text": "lines",
+            "startTime": 20.01,
+            "endTime": 20.13,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 72,
+            "text": "are",
+            "startTime": 20.24,
+            "endTime": 20.36,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 73,
+            "text": "bad,",
+            "startTime": 20.48,
+            "endTime": 20.6,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 74,
+            "text": "also",
+            "startTime": 20.71,
+            "endTime": 20.83,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 75,
+            "text": "that",
+            "startTime": 20.95,
+            "endTime": 21.07,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 76,
+            "text": "means",
+            "startTime": 21.18,
+            "endTime": 21.3,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 77,
+            "text": "we",
+            "startTime": 21.42,
+            "endTime": 21.54,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 78,
+            "text": "have",
+            "startTime": 21.65,
+            "endTime": 21.77,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 79,
+            "text": "gas",
+            "startTime": 21.89,
+            "endTime": 22.01,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 80,
+            "text": "line",
+            "startTime": 22.12,
+            "endTime": 22.24,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 81,
+            "text": "problems",
+            "startTime": 22.36,
+            "endTime": 22.48,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 82,
+            "text": "in",
+            "startTime": 22.59,
+            "endTime": 22.71,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 83,
+            "text": "the",
+            "startTime": 22.83,
+            "endTime": 22.95,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 84,
+            "text": "future.",
+            "startTime": 23.06,
+            "endTime": 23.18,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 85,
+            "text": "It's",
+            "startTime": 24.4,
+            "endTime": 24.51,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 86,
+            "text": "not",
+            "startTime": 24.62,
+            "endTime": 24.73,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 87,
+            "text": "what",
+            "startTime": 24.84,
+            "endTime": 24.96,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 88,
+            "text": "you",
+            "startTime": 25.07,
+            "endTime": 25.18,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 89,
+            "text": "want.",
+            "startTime": 25.29,
+            "endTime": 25.4,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 90,
+            "text": "Public",
+            "startTime": 25.4,
+            "endTime": 25.6,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 91,
+            "text": "gas",
+            "startTime": 25.8,
+            "endTime": 25.99,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 92,
+            "text": "line",
+            "startTime": 26.19,
+            "endTime": 26.39,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 93,
+            "text": "problems",
+            "startTime": 26.59,
+            "endTime": 26.79,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 94,
+            "text": "went",
+            "startTime": 26.98,
+            "endTime": 27.18,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 95,
+            "text": "from",
+            "startTime": 27.38,
+            "endTime": 27.58,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 96,
+            "text": "theoretical",
+            "startTime": 27.77,
+            "endTime": 27.97,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 97,
+            "text": "to",
+            "startTime": 28.17,
+            "endTime": 28.37,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 98,
+            "text": "terrifyingly",
+            "startTime": 28.57,
+            "endTime": 28.76,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 99,
+            "text": "real.",
+            "startTime": 28.96,
+            "endTime": 29.16,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 100,
+            "text": "Do",
+            "startTime": 29.32,
+            "endTime": 29.4,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 101,
+            "text": "you",
+            "startTime": 29.47,
+            "endTime": 29.55,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 102,
+            "text": "remember?",
+            "startTime": 29.62,
+            "endTime": 29.7,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 103,
+            "text": "Yeah,",
+            "startTime": 30.0,
+            "endTime": 30.12,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 104,
+            "text": "the",
+            "startTime": 30.24,
+            "endTime": 30.36,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 105,
+            "text": "night",
+            "startTime": 30.48,
+            "endTime": 30.6,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 106,
+            "text": "of",
+            "startTime": 30.72,
+            "endTime": 30.84,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 107,
+            "text": "the",
+            "startTime": 30.96,
+            "endTime": 31.08,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 108,
+            "text": "live",
+            "startTime": 31.2,
+            "endTime": 31.32,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 109,
+            "text": "show.",
+            "startTime": 31.44,
+            "endTime": 31.56,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 110,
+            "text": "Big",
+            "startTime": 31.86,
+            "endTime": 31.96,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 111,
+            "text": "live",
+            "startTime": 32.06,
+            "endTime": 32.15,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 112,
+            "text": "live",
+            "startTime": 32.25,
+            "endTime": 32.35,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 113,
+            "text": "show",
+            "startTime": 32.45,
+            "endTime": 32.54,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 114,
+            "text": "live.",
+            "startTime": 32.64,
+            "endTime": 32.74,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 115,
+            "text": "Was",
+            "startTime": 32.88,
+            "endTime": 33.04,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 116,
+            "text": "that",
+            "startTime": 33.19,
+            "endTime": 33.35,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 117,
+            "text": "2010",
+            "startTime": 33.5,
+            "endTime": 33.66,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 118,
+            "text": "or",
+            "startTime": 33.81,
+            "endTime": 33.97,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 119,
+            "text": "2011?",
+            "startTime": 34.12,
+            "endTime": 34.28,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 120,
+            "text": "About",
+            "startTime": 34.46,
+            "endTime": 34.61,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 121,
+            "text": "12,",
+            "startTime": 34.76,
+            "endTime": 34.91,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 122,
+            "text": "13,",
+            "startTime": 35.06,
+            "endTime": 35.21,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 123,
+            "text": "14",
+            "startTime": 35.35,
+            "endTime": 35.5,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 124,
+            "text": "years",
+            "startTime": 35.65,
+            "endTime": 35.8,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 125,
+            "text": "ago?",
+            "startTime": 35.95,
+            "endTime": 36.1,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 126,
+            "text": "It",
+            "startTime": 36.32,
+            "endTime": 36.46,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 127,
+            "text": "was",
+            "startTime": 36.6,
+            "endTime": 36.74,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 128,
+            "text": "one",
+            "startTime": 36.88,
+            "endTime": 37.02,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 129,
+            "text": "of",
+            "startTime": 37.16,
+            "endTime": 37.3,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 130,
+            "text": "the.",
+            "startTime": 37.44,
+            "endTime": 37.58,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 131,
+            "text": "It",
+            "startTime": 37.68,
+            "endTime": 37.86,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 132,
+            "text": "was",
+            "startTime": 38.05,
+            "endTime": 38.23,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 133,
+            "text": "September",
+            "startTime": 38.42,
+            "endTime": 38.6,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 134,
+            "text": "either",
+            "startTime": 38.79,
+            "endTime": 38.97,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 135,
+            "text": "2010",
+            "startTime": 39.16,
+            "endTime": 39.34,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 136,
+            "text": "or",
+            "startTime": 39.53,
+            "endTime": 39.71,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 137,
+            "text": "2011.",
+            "startTime": 39.9,
+            "endTime": 40.08,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 138,
+            "text": "Because",
+            "startTime": 40.38,
+            "endTime": 40.48,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 139,
+            "text": "it",
+            "startTime": 40.57,
+            "endTime": 40.67,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 140,
+            "text": "was",
+            "startTime": 40.76,
+            "endTime": 40.86,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 141,
+            "text": "when",
+            "startTime": 40.95,
+            "endTime": 41.05,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 142,
+            "text": "we.",
+            "startTime": 41.14,
+            "endTime": 41.24,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 143,
+            "text": "It",
+            "startTime": 41.44,
+            "endTime": 41.55,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 144,
+            "text": "was",
+            "startTime": 41.66,
+            "endTime": 41.77,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 145,
+            "text": "literally",
+            "startTime": 41.88,
+            "endTime": 41.99,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 146,
+            "text": "the",
+            "startTime": 42.1,
+            "endTime": 42.21,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 147,
+            "text": "night",
+            "startTime": 42.32,
+            "endTime": 42.43,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 148,
+            "text": "we",
+            "startTime": 42.54,
+            "endTime": 42.65,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 149,
+            "text": "recorded",
+            "startTime": 42.77,
+            "endTime": 42.88,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 150,
+            "text": "the",
+            "startTime": 42.99,
+            "endTime": 43.1,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 151,
+            "text": "big",
+            "startTime": 43.21,
+            "endTime": 43.32,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 152,
+            "text": "live",
+            "startTime": 43.43,
+            "endTime": 43.54,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 153,
+            "text": "live",
+            "startTime": 43.65,
+            "endTime": 43.76,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 154,
+            "text": "show.",
+            "startTime": 43.87,
+            "endTime": 43.98,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 155,
+            "text": "I",
+            "startTime": 44.06,
+            "endTime": 44.18,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 156,
+            "text": "remember",
+            "startTime": 44.29,
+            "endTime": 44.41,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 157,
+            "text": "distinctly,",
+            "startTime": 44.53,
+            "endTime": 44.64,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 158,
+            "text": "like,",
+            "startTime": 44.76,
+            "endTime": 44.87,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 159,
+            "text": "kind",
+            "startTime": 44.99,
+            "endTime": 45.11,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 160,
+            "text": "of",
+            "startTime": 45.22,
+            "endTime": 45.34,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 161,
+            "text": "being",
+            "startTime": 45.46,
+            "endTime": 45.57,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 162,
+            "text": "done",
+            "startTime": 45.69,
+            "endTime": 45.8,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 163,
+            "text": "with",
+            "startTime": 45.92,
+            "endTime": 46.04,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 164,
+            "text": "a",
+            "startTime": 46.15,
+            "endTime": 46.27,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 165,
+            "text": "big",
+            "startTime": 46.39,
+            "endTime": 46.5,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 166,
+            "text": "live",
+            "startTime": 46.62,
+            "endTime": 46.73,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 167,
+            "text": "live",
+            "startTime": 46.85,
+            "endTime": 46.97,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 168,
+            "text": "show.",
+            "startTime": 47.08,
+            "endTime": 47.2,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 169,
+            "text": "And,",
+            "startTime": 47.2,
+            "endTime": 47.36,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 170,
+            "text": "like,",
+            "startTime": 47.51,
+            "endTime": 47.67,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 171,
+            "text": "everybody",
+            "startTime": 47.82,
+            "endTime": 47.98,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 172,
+            "text": "was,",
+            "startTime": 48.14,
+            "endTime": 48.29,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 173,
+            "text": "like,",
+            "startTime": 48.45,
+            "endTime": 48.61,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 174,
+            "text": "cracking",
+            "startTime": 48.76,
+            "endTime": 48.92,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 175,
+            "text": "open",
+            "startTime": 49.07,
+            "endTime": 49.23,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 176,
+            "text": "a",
+            "startTime": 49.39,
+            "endTime": 49.54,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 177,
+            "text": "beer",
+            "startTime": 49.7,
+            "endTime": 49.86,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 178,
+            "text": "and",
+            "startTime": 50.01,
+            "endTime": 50.17,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 179,
+            "text": "celebrating.",
+            "startTime": 50.32,
+            "endTime": 50.48,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 180,
+            "text": "And",
+            "startTime": 50.48,
+            "endTime": 50.58,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 181,
+            "text": "then,",
+            "startTime": 50.68,
+            "endTime": 50.78,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 182,
+            "text": "like,",
+            "startTime": 50.88,
+            "endTime": 50.98,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 183,
+            "text": "oh,",
+            "startTime": 51.09,
+            "endTime": 51.19,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 184,
+            "text": "did",
+            "startTime": 51.29,
+            "endTime": 51.39,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 185,
+            "text": "you",
+            "startTime": 51.49,
+            "endTime": 51.59,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 186,
+            "text": "see",
+            "startTime": 51.69,
+            "endTime": 51.79,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 187,
+            "text": "this",
+            "startTime": 51.89,
+            "endTime": 51.99,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 188,
+            "text": "news",
+            "startTime": 52.09,
+            "endTime": 52.19,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 189,
+            "text": "from",
+            "startTime": 52.3,
+            "endTime": 52.4,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 190,
+            "text": "San",
+            "startTime": 52.5,
+            "endTime": 52.6,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 191,
+            "text": "Bruno?",
+            "startTime": 52.7,
+            "endTime": 52.8,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 192,
+            "text": "Yeah,",
+            "startTime": 53.18,
+            "endTime": 53.28,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 193,
+            "text": "that's",
+            "startTime": 53.37,
+            "endTime": 53.47,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 194,
+            "text": "just",
+            "startTime": 53.56,
+            "endTime": 53.66,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 195,
+            "text": "over",
+            "startTime": 53.75,
+            "endTime": 53.85,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 196,
+            "text": "the",
+            "startTime": 53.94,
+            "endTime": 54.04,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 197,
+            "text": "hill",
+            "startTime": 54.13,
+            "endTime": 54.23,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 198,
+            "text": "from",
+            "startTime": 54.32,
+            "endTime": 54.42,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 199,
+            "text": "my",
+            "startTime": 54.51,
+            "endTime": 54.61,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 200,
+            "text": "house,",
+            "startTime": 54.7,
+            "endTime": 54.8,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 201,
+            "text": "you",
+            "startTime": 54.89,
+            "endTime": 54.99,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 202,
+            "text": "know.",
+            "startTime": 55.08,
+            "endTime": 55.18,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 203,
+            "text": "Yikes.",
+            "startTime": 55.5,
+            "endTime": 55.86,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 204,
+            "text": "Like,",
+            "startTime": 56.12,
+            "endTime": 56.27,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 205,
+            "text": "it's",
+            "startTime": 56.41,
+            "endTime": 56.56,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 206,
+            "text": "like",
+            "startTime": 56.7,
+            "endTime": 56.85,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 207,
+            "text": "I",
+            "startTime": 57.0,
+            "endTime": 57.14,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 208,
+            "text": "could",
+            "startTime": 57.29,
+            "endTime": 57.44,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 209,
+            "text": "hike",
+            "startTime": 57.58,
+            "endTime": 57.73,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 210,
+            "text": "there.",
+            "startTime": 57.87,
+            "endTime": 58.02,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 211,
+            "text": "That's",
+            "startTime": 58.44,
+            "endTime": 58.59,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 212,
+            "text": "like.",
+            "startTime": 58.73,
+            "endTime": 58.88,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 213,
+            "text": "That",
+            "startTime": 58.88,
+            "endTime": 59.03,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 214,
+            "text": "is",
+            "startTime": 59.18,
+            "endTime": 59.33,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 215,
+            "text": "like",
+            "startTime": 59.48,
+            "endTime": 59.63,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 216,
+            "text": "such",
+            "startTime": 59.78,
+            "endTime": 59.93,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 217,
+            "text": "existential",
+            "startTime": 60.09,
+            "endTime": 60.24,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 218,
+            "text": "terror",
+            "startTime": 60.39,
+            "endTime": 60.54,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 219,
+            "text": "that",
+            "startTime": 60.69,
+            "endTime": 60.84,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 220,
+            "text": "you",
+            "startTime": 60.99,
+            "endTime": 61.14,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 221,
+            "text": "might",
+            "startTime": 61.29,
+            "endTime": 61.44,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 222,
+            "text": "as",
+            "startTime": 61.59,
+            "endTime": 61.74,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 223,
+            "text": "well",
+            "startTime": 61.89,
+            "endTime": 62.04,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 224,
+            "text": "not",
+            "startTime": 62.2,
+            "endTime": 62.35,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 225,
+            "text": "even",
+            "startTime": 62.5,
+            "endTime": 62.65,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 226,
+            "text": "think",
+            "startTime": 62.8,
+            "endTime": 62.95,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 227,
+            "text": "about",
+            "startTime": 63.1,
+            "endTime": 63.25,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 228,
+            "text": "it",
+            "startTime": 63.4,
+            "endTime": 63.55,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 229,
+            "text": "because",
+            "startTime": 63.7,
+            "endTime": 63.85,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 230,
+            "text": "it's",
+            "startTime": 64.0,
+            "endTime": 64.15,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 231,
+            "text": "so",
+            "startTime": 64.31,
+            "endTime": 64.46,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 232,
+            "text": "unpredictable",
+            "startTime": 64.61,
+            "endTime": 64.76,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 233,
+            "text": "and",
+            "startTime": 64.91,
+            "endTime": 65.06,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 234,
+            "text": "unstoppable.",
+            "startTime": 65.21,
+            "endTime": 65.36,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 235,
+            "text": "If",
+            "startTime": 65.36,
+            "endTime": 65.48,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 236,
+            "text": "it",
+            "startTime": 65.61,
+            "endTime": 65.73,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 237,
+            "text": "happens",
+            "startTime": 65.86,
+            "endTime": 65.98,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 238,
+            "text": "that",
+            "startTime": 66.11,
+            "endTime": 66.23,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 239,
+            "text": "we're",
+            "startTime": 66.36,
+            "endTime": 66.48,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 240,
+            "text": "talking",
+            "startTime": 66.61,
+            "endTime": 66.73,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 241,
+            "text": "about",
+            "startTime": 66.86,
+            "endTime": 66.98,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 242,
+            "text": "a",
+            "startTime": 67.11,
+            "endTime": 67.23,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 243,
+            "text": "gas",
+            "startTime": 67.36,
+            "endTime": 67.48,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 244,
+            "text": "line",
+            "startTime": 67.61,
+            "endTime": 67.73,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 245,
+            "text": "explosion.",
+            "startTime": 67.86,
+            "endTime": 67.98,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 246,
+            "text": "Yeah.",
+            "startTime": 68.66,
+            "endTime": 69.06,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 247,
+            "text": "This",
+            "startTime": 69.32,
+            "endTime": 69.45,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 248,
+            "text": "is",
+            "startTime": 69.58,
+            "endTime": 69.71,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 249,
+            "text": "not",
+            "startTime": 69.84,
+            "endTime": 69.97,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 250,
+            "text": "the",
+            "startTime": 70.1,
+            "endTime": 70.23,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 251,
+            "text": "cheeriest",
+            "startTime": 70.37,
+            "endTime": 70.5,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 252,
+            "text": "cold",
+            "startTime": 70.63,
+            "endTime": 70.76,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 253,
+            "text": "open",
+            "startTime": 70.89,
+            "endTime": 71.02,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 254,
+            "text": "ever.",
+            "startTime": 71.15,
+            "endTime": 71.28,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 255,
+            "text": "No,",
+            "startTime": 71.68,
+            "endTime": 71.85,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 256,
+            "text": "but.",
+            "startTime": 72.03,
+            "endTime": 72.2,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 257,
+            "text": "But.",
+            "startTime": 72.44,
+            "endTime": 72.56,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 258,
+            "text": "Well.",
+            "startTime": 72.92,
+            "endTime": 73.3,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 259,
+            "text": "Yeah.",
+            "startTime": 73.96,
+            "endTime": 74.3,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 260,
+            "text": "Yeah.",
+            "startTime": 74.3,
+            "endTime": 74.38,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 261,
+            "text": "It",
+            "startTime": 74.38,
+            "endTime": 74.48,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 262,
+            "text": "was",
+            "startTime": 74.58,
+            "endTime": 74.68,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 263,
+            "text": "bad.",
+            "startTime": 74.78,
+            "endTime": 74.88,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 264,
+            "text": "It",
+            "startTime": 75.0,
+            "endTime": 75.09,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 265,
+            "text": "was.",
+            "startTime": 75.17,
+            "endTime": 75.26,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 266,
+            "text": "They",
+            "startTime": 75.38,
+            "endTime": 75.48,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 267,
+            "text": "blew",
+            "startTime": 75.58,
+            "endTime": 75.67,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 268,
+            "text": "up",
+            "startTime": 75.77,
+            "endTime": 75.87,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 269,
+            "text": "a",
+            "startTime": 75.97,
+            "endTime": 76.06,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 270,
+            "text": "good",
+            "startTime": 76.16,
+            "endTime": 76.26,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 271,
+            "text": "part",
+            "startTime": 76.36,
+            "endTime": 76.45,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 272,
+            "text": "of",
+            "startTime": 76.55,
+            "endTime": 76.65,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 273,
+            "text": "a",
+            "startTime": 76.75,
+            "endTime": 76.84,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 274,
+            "text": "block,",
+            "startTime": 76.94,
+            "endTime": 77.04,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 275,
+            "text": "basically,",
+            "startTime": 77.14,
+            "endTime": 77.23,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 276,
+            "text": "when",
+            "startTime": 77.33,
+            "endTime": 77.43,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 277,
+            "text": "it",
+            "startTime": 77.53,
+            "endTime": 77.62,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 278,
+            "text": "went.",
+            "startTime": 77.72,
+            "endTime": 77.82,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 279,
+            "text": "Yeah.",
+            "startTime": 77.82,
+            "endTime": 77.98,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 280,
+            "text": "The",
+            "startTime": 78.34,
+            "endTime": 78.43,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 281,
+            "text": "true.",
+            "startTime": 78.51,
+            "endTime": 78.6,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 282,
+            "text": "But",
+            "startTime": 78.84,
+            "endTime": 78.95,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 283,
+            "text": "the",
+            "startTime": 79.07,
+            "endTime": 79.18,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 284,
+            "text": "sewer",
+            "startTime": 79.3,
+            "endTime": 79.41,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 285,
+            "text": "line",
+            "startTime": 79.52,
+            "endTime": 79.64,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 286,
+            "text": "was",
+            "startTime": 79.75,
+            "endTime": 79.87,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 287,
+            "text": "just",
+            "startTime": 79.98,
+            "endTime": 80.1,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 288,
+            "text": "a",
+            "startTime": 80.21,
+            "endTime": 80.32,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 289,
+            "text": "mild",
+            "startTime": 80.44,
+            "endTime": 80.55,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 290,
+            "text": "inconvenience.",
+            "startTime": 80.67,
+            "endTime": 80.78,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 291,
+            "text": "Yeah.",
+            "startTime": 81.68,
+            "endTime": 81.82,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 292,
+            "text": "So",
+            "startTime": 81.82,
+            "endTime": 81.94,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 293,
+            "text": "they",
+            "startTime": 82.06,
+            "endTime": 82.18,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 294,
+            "text": "were",
+            "startTime": 82.31,
+            "endTime": 82.43,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 295,
+            "text": "supposed",
+            "startTime": 82.55,
+            "endTime": 82.67,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 296,
+            "text": "to",
+            "startTime": 82.79,
+            "endTime": 82.91,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 297,
+            "text": "start",
+            "startTime": 83.04,
+            "endTime": 83.16,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 298,
+            "text": "working.",
+            "startTime": 83.28,
+            "endTime": 83.4,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 299,
+            "text": "Like,",
+            "startTime": 83.58,
+            "endTime": 83.7,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 300,
+            "text": "this",
+            "startTime": 83.82,
+            "endTime": 83.94,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 301,
+            "text": "is",
+            "startTime": 84.06,
+            "endTime": 84.18,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 302,
+            "text": "the",
+            "startTime": 84.3,
+            "endTime": 84.42,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 303,
+            "text": "kind",
+            "startTime": 84.54,
+            "endTime": 84.66,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 304,
+            "text": "of",
+            "startTime": 84.78,
+            "endTime": 84.9,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 305,
+            "text": "civic",
+            "startTime": 85.02,
+            "endTime": 85.14,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 306,
+            "text": "thing",
+            "startTime": 85.26,
+            "endTime": 85.38,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 307,
+            "text": "that",
+            "startTime": 85.5,
+            "endTime": 85.62,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 308,
+            "text": "annoys",
+            "startTime": 85.74,
+            "endTime": 85.86,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 309,
+            "text": "me.",
+            "startTime": 85.98,
+            "endTime": 86.1,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 310,
+            "text": "Right.",
+            "startTime": 86.1,
+            "endTime": 86.4,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 311,
+            "text": "Because",
+            "startTime": 86.8,
+            "endTime": 86.93,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 312,
+            "text": "we",
+            "startTime": 87.06,
+            "endTime": 87.19,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 313,
+            "text": "got",
+            "startTime": 87.32,
+            "endTime": 87.45,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 314,
+            "text": "a",
+            "startTime": 87.58,
+            "endTime": 87.71,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 315,
+            "text": "note",
+            "startTime": 87.84,
+            "endTime": 87.97,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 316,
+            "text": "on",
+            "startTime": 88.1,
+            "endTime": 88.23,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 317,
+            "text": "the",
+            "startTime": 88.36,
+            "endTime": 88.49,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 318,
+            "text": "door",
+            "startTime": 88.63,
+            "endTime": 88.76,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 319,
+            "text": "like",
+            "startTime": 88.89,
+            "endTime": 89.02,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 320,
+            "text": "three",
+            "startTime": 89.15,
+            "endTime": 89.28,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 321,
+            "text": "days",
+            "startTime": 89.41,
+            "endTime": 89.54,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 322,
+            "text": "before",
+            "startTime": 89.67,
+            "endTime": 89.8,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 323,
+            "text": "this",
+            "startTime": 89.93,
+            "endTime": 90.06,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 324,
+            "text": "happened.",
+            "startTime": 90.19,
+            "endTime": 90.32,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 325,
+            "text": "And",
+            "startTime": 90.32,
+            "endTime": 90.41,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 326,
+            "text": "they",
+            "startTime": 90.5,
+            "endTime": 90.6,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 327,
+            "text": "were",
+            "startTime": 90.69,
+            "endTime": 90.78,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 328,
+            "text": "like,",
+            "startTime": 90.87,
+            "endTime": 90.96,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 329,
+            "text": "hey,",
+            "startTime": 91.05,
+            "endTime": 91.15,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 330,
+            "text": "we're",
+            "startTime": 91.24,
+            "endTime": 91.33,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 331,
+            "text": "going",
+            "startTime": 91.42,
+            "endTime": 91.51,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 332,
+            "text": "to",
+            "startTime": 91.6,
+            "endTime": 91.7,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 333,
+            "text": "be",
+            "startTime": 91.79,
+            "endTime": 91.88,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 334,
+            "text": "doing",
+            "startTime": 91.97,
+            "endTime": 92.06,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 335,
+            "text": "some",
+            "startTime": 92.15,
+            "endTime": 92.25,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 336,
+            "text": "work",
+            "startTime": 92.34,
+            "endTime": 92.43,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 337,
+            "text": "on",
+            "startTime": 92.52,
+            "endTime": 92.61,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 338,
+            "text": "your",
+            "startTime": 92.7,
+            "endTime": 92.8,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 339,
+            "text": "street.",
+            "startTime": 92.89,
+            "endTime": 92.98,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 340,
+            "text": "We're",
+            "startTime": 93.5,
+            "endTime": 93.62,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 341,
+            "text": "going",
+            "startTime": 93.73,
+            "endTime": 93.85,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 342,
+            "text": "to",
+            "startTime": 93.97,
+            "endTime": 94.09,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 343,
+            "text": "take",
+            "startTime": 94.2,
+            "endTime": 94.32,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 344,
+            "text": "up",
+            "startTime": 94.44,
+            "endTime": 94.56,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 345,
+            "text": "all",
+            "startTime": 94.67,
+            "endTime": 94.79,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 346,
+            "text": "the",
+            "startTime": 94.91,
+            "endTime": 95.02,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 347,
+            "text": "street",
+            "startTime": 95.14,
+            "endTime": 95.26,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 348,
+            "text": "parking",
+            "startTime": 95.38,
+            "endTime": 95.49,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 349,
+            "text": "spaces,",
+            "startTime": 95.61,
+            "endTime": 95.73,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 350,
+            "text": "which",
+            "startTime": 95.85,
+            "endTime": 95.96,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 351,
+            "text": "doesn't",
+            "startTime": 96.08,
+            "endTime": 96.2,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 352,
+            "text": "affect",
+            "startTime": 96.32,
+            "endTime": 96.43,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 353,
+            "text": "us",
+            "startTime": 96.55,
+            "endTime": 96.67,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 354,
+            "text": "because",
+            "startTime": 96.78,
+            "endTime": 96.9,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 355,
+            "text": "we",
+            "startTime": 97.02,
+            "endTime": 97.14,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 356,
+            "text": "have",
+            "startTime": 97.25,
+            "endTime": 97.37,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 357,
+            "text": "one",
+            "startTime": 97.49,
+            "endTime": 97.61,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 358,
+            "text": "car.",
+            "startTime": 97.72,
+            "endTime": 97.84,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 359,
+            "text": "So",
+            "startTime": 98.08,
+            "endTime": 98.18,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 360,
+            "text": "I",
+            "startTime": 98.29,
+            "endTime": 98.39,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 361,
+            "text": "was",
+            "startTime": 98.49,
+            "endTime": 98.6,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 362,
+            "text": "like,",
+            "startTime": 98.7,
+            "endTime": 98.81,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 363,
+            "text": "that's",
+            "startTime": 98.91,
+            "endTime": 99.01,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 364,
+            "text": "fine.",
+            "startTime": 99.12,
+            "endTime": 99.22,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 365,
+            "text": "They're",
+            "startTime": 99.52,
+            "endTime": 99.67,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 366,
+            "text": "like,",
+            "startTime": 99.82,
+            "endTime": 99.97,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 367,
+            "text": "if",
+            "startTime": 100.13,
+            "endTime": 100.28,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 368,
+            "text": "you",
+            "startTime": 100.43,
+            "endTime": 100.58,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 369,
+            "text": "cannot",
+            "startTime": 100.73,
+            "endTime": 100.88,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 370,
+            "text": "run",
+            "startTime": 101.04,
+            "endTime": 101.19,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 371,
+            "text": "water",
+            "startTime": 101.34,
+            "endTime": 101.49,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 372,
+            "text": "between",
+            "startTime": 101.64,
+            "endTime": 101.79,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 373,
+            "text": "eight",
+            "startTime": 101.95,
+            "endTime": 102.1,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 374,
+            "text": "and",
+            "startTime": 102.25,
+            "endTime": 102.4,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 375,
+            "text": "five,",
+            "startTime": 102.55,
+            "endTime": 102.7,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 376,
+            "text": "that",
+            "startTime": 102.86,
+            "endTime": 103.01,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 377,
+            "text": "would",
+            "startTime": 103.16,
+            "endTime": 103.31,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 378,
+            "text": "be",
+            "startTime": 103.46,
+            "endTime": 103.61,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 379,
+            "text": "convenient",
+            "startTime": 103.77,
+            "endTime": 103.92,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 380,
+            "text": "because",
+            "startTime": 104.07,
+            "endTime": 104.22,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 381,
+            "text": "we're",
+            "startTime": 104.37,
+            "endTime": 104.52,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 382,
+            "text": "going",
+            "startTime": 104.68,
+            "endTime": 104.83,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 383,
+            "text": "to",
+            "startTime": 104.98,
+            "endTime": 105.13,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 384,
+            "text": "have",
+            "startTime": 105.28,
+            "endTime": 105.43,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 385,
+            "text": "sewer",
+            "startTime": 105.59,
+            "endTime": 105.74,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 386,
+            "text": "open.",
+            "startTime": 105.89,
+            "endTime": 106.04,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 387,
+            "text": "And",
+            "startTime": 106.1,
+            "endTime": 106.23,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 388,
+            "text": "I",
+            "startTime": 106.36,
+            "endTime": 106.49,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 389,
+            "text": "was",
+            "startTime": 106.61,
+            "endTime": 106.74,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 390,
+            "text": "like,",
+            "startTime": 106.87,
+            "endTime": 107.0,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 391,
+            "text": "OK,",
+            "startTime": 107.13,
+            "endTime": 107.26,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 392,
+            "text": "so",
+            "startTime": 107.38,
+            "endTime": 107.51,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 393,
+            "text": "no",
+            "startTime": 107.64,
+            "endTime": 107.77,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 394,
+            "text": "dumping",
+            "startTime": 107.9,
+            "endTime": 108.03,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 395,
+            "text": "between",
+            "startTime": 108.15,
+            "endTime": 108.28,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 396,
+            "text": "eight",
+            "startTime": 108.41,
+            "endTime": 108.54,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 397,
+            "text": "and",
+            "startTime": 108.67,
+            "endTime": 108.8,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 398,
+            "text": "five",
+            "startTime": 108.92,
+            "endTime": 109.05,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 399,
+            "text": "or",
+            "startTime": 109.18,
+            "endTime": 109.31,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 400,
+            "text": "happy",
+            "startTime": 109.44,
+            "endTime": 109.57,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 401,
+            "text": "to",
+            "startTime": 109.69,
+            "endTime": 109.82,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 402,
+            "text": "oblige.",
+            "startTime": 109.95,
+            "endTime": 110.08,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 403,
+            "text": "If",
+            "startTime": 110.08,
+            "endTime": 110.19,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 404,
+            "text": "you",
+            "startTime": 110.3,
+            "endTime": 110.41,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 405,
+            "text": "do,",
+            "startTime": 110.52,
+            "endTime": 110.63,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 406,
+            "text": "somebody",
+            "startTime": 110.74,
+            "endTime": 110.85,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 407,
+            "text": "is",
+            "startTime": 110.96,
+            "endTime": 111.07,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 408,
+            "text": "going",
+            "startTime": 111.18,
+            "endTime": 111.3,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 409,
+            "text": "to",
+            "startTime": 111.41,
+            "endTime": 111.52,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 410,
+            "text": "get",
+            "startTime": 111.63,
+            "endTime": 111.74,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 411,
+            "text": "the",
+            "startTime": 111.85,
+            "endTime": 111.96,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 412,
+            "text": "full",
+            "startTime": 112.07,
+            "endTime": 112.18,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 413,
+            "text": "view.",
+            "startTime": 112.29,
+            "endTime": 112.4,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 414,
+            "text": "That's",
+            "startTime": 112.5,
+            "endTime": 112.65,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 415,
+            "text": "fine.",
+            "startTime": 112.81,
+            "endTime": 112.96,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 416,
+            "text": "I",
+            "startTime": 113.0,
+            "endTime": 113.1,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 417,
+            "text": "don't",
+            "startTime": 113.19,
+            "endTime": 113.29,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 418,
+            "text": "care.",
+            "startTime": 113.38,
+            "endTime": 113.48,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 419,
+            "text": "And",
+            "startTime": 114.82,
+            "endTime": 115.0,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 420,
+            "text": "then",
+            "startTime": 115.18,
+            "endTime": 115.35,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 421,
+            "text": "and",
+            "startTime": 115.53,
+            "endTime": 115.71,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 422,
+            "text": "then",
+            "startTime": 115.89,
+            "endTime": 116.07,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 423,
+            "text": "they're",
+            "startTime": 116.24,
+            "endTime": 116.42,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 424,
+            "text": "like,",
+            "startTime": 116.6,
+            "endTime": 116.78,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 425,
+            "text": "but",
+            "startTime": 116.95,
+            "endTime": 117.13,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 426,
+            "text": "it",
+            "startTime": 117.31,
+            "endTime": 117.49,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 427,
+            "text": "shouldn't",
+            "startTime": 117.67,
+            "endTime": 117.84,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 428,
+            "text": "impact.",
+            "startTime": 118.02,
+            "endTime": 118.2,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 429,
+            "text": "Like,",
+            "startTime": 118.36,
+            "endTime": 118.44,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 430,
+            "text": "you",
+            "startTime": 118.52,
+            "endTime": 118.6,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 431,
+            "text": "should",
+            "startTime": 118.68,
+            "endTime": 118.77,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 432,
+            "text": "get",
+            "startTime": 118.85,
+            "endTime": 118.93,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 433,
+            "text": "in",
+            "startTime": 119.01,
+            "endTime": 119.09,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 434,
+            "text": "and",
+            "startTime": 119.17,
+            "endTime": 119.25,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 435,
+            "text": "out",
+            "startTime": 119.33,
+            "endTime": 119.41,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 436,
+            "text": "all",
+            "startTime": 119.49,
+            "endTime": 119.58,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 437,
+            "text": "the",
+            "startTime": 119.66,
+            "endTime": 119.74,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 438,
+            "text": "time.",
+            "startTime": 119.82,
+            "endTime": 119.9,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 439,
+            "text": "It's",
+            "startTime": 119.94,
+            "endTime": 120.03,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 440,
+            "text": "no",
+            "startTime": 120.12,
+            "endTime": 120.21,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 441,
+            "text": "big",
+            "startTime": 120.29,
+            "endTime": 120.38,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 442,
+            "text": "deal.",
+            "startTime": 120.47,
+            "endTime": 120.56,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 443,
+            "text": "And",
+            "startTime": 120.9,
+            "endTime": 120.97,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 444,
+            "text": "I",
+            "startTime": 121.04,
+            "endTime": 121.11,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 445,
+            "text": "was",
+            "startTime": 121.18,
+            "endTime": 121.25,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 446,
+            "text": "like,",
+            "startTime": 121.33,
+            "endTime": 121.4,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 447,
+            "text": "that's",
+            "startTime": 121.47,
+            "endTime": 121.54,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 448,
+            "text": "OK.",
+            "startTime": 121.61,
+            "endTime": 121.68,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 449,
+            "text": "That",
+            "startTime": 121.74,
+            "endTime": 121.88,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 450,
+            "text": "seems",
+            "startTime": 122.01,
+            "endTime": 122.15,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 451,
+            "text": "like",
+            "startTime": 122.29,
+            "endTime": 122.43,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 452,
+            "text": "minor.",
+            "startTime": 122.56,
+            "endTime": 122.7,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 453,
+            "text": "And",
+            "startTime": 122.94,
+            "endTime": 123.09,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 454,
+            "text": "then",
+            "startTime": 123.25,
+            "endTime": 123.4,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 455,
+            "text": "the",
+            "startTime": 123.56,
+            "endTime": 123.71,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 456,
+            "text": "each",
+            "startTime": 123.87,
+            "endTime": 124.02,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 457,
+            "text": "day",
+            "startTime": 124.18,
+            "endTime": 124.33,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 458,
+            "text": "this",
+            "startTime": 124.49,
+            "endTime": 124.64,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 459,
+            "text": "week",
+            "startTime": 124.8,
+            "endTime": 124.95,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 460,
+            "text": "when",
+            "startTime": 125.11,
+            "endTime": 125.26,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 461,
+            "text": "I",
+            "startTime": 125.42,
+            "endTime": 125.57,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 462,
+            "text": "needed",
+            "startTime": 125.73,
+            "endTime": 125.88,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 463,
+            "text": "to",
+            "startTime": 126.04,
+            "endTime": 126.19,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 464,
+            "text": "go",
+            "startTime": 126.35,
+            "endTime": 126.5,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 465,
+            "text": "out,",
+            "startTime": 126.66,
+            "endTime": 126.81,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 466,
+            "text": "it's",
+            "startTime": 126.97,
+            "endTime": 127.12,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 467,
+            "text": "been",
+            "startTime": 127.28,
+            "endTime": 127.43,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 468,
+            "text": "like",
+            "startTime": 127.59,
+            "endTime": 127.74,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 469,
+            "text": "we",
+            "startTime": 127.9,
+            "endTime": 128.05,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 470,
+            "text": "got",
+            "startTime": 128.21,
+            "endTime": 128.36,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 471,
+            "text": "to",
+            "startTime": 128.52,
+            "endTime": 128.67,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 472,
+            "text": "move",
+            "startTime": 128.83,
+            "endTime": 128.98,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 473,
+            "text": "like",
+            "startTime": 129.14,
+            "endTime": 129.29,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 474,
+            "text": "four",
+            "startTime": 129.45,
+            "endTime": 129.6,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 475,
+            "text": "backhoes",
+            "startTime": 129.76,
+            "endTime": 129.91,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 476,
+            "text": "and",
+            "startTime": 130.07,
+            "endTime": 130.22,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 477,
+            "text": "a",
+            "startTime": 130.38,
+            "endTime": 130.53,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 478,
+            "text": "bunch",
+            "startTime": 130.69,
+            "endTime": 130.84,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 479,
+            "text": "of",
+            "startTime": 131.0,
+            "endTime": 131.15,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 480,
+            "text": "pipes",
+            "startTime": 131.31,
+            "endTime": 131.46,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 481,
+            "text": "and",
+            "startTime": 131.62,
+            "endTime": 131.77,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 482,
+            "text": "truck.",
+            "startTime": 131.93,
+            "endTime": 132.08,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 483,
+            "text": "And",
+            "startTime": 132.16,
+            "endTime": 132.27,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 484,
+            "text": "I",
+            "startTime": 132.37,
+            "endTime": 132.48,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 485,
+            "text": "feel",
+            "startTime": 132.59,
+            "endTime": 132.7,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 486,
+            "text": "like",
+            "startTime": 132.8,
+            "endTime": 132.91,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 487,
+            "text": "an",
+            "startTime": 133.02,
+            "endTime": 133.13,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 488,
+            "text": "asshole.",
+            "startTime": 133.23,
+            "endTime": 133.34,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 489,
+            "text": "But",
+            "startTime": 133.66,
+            "endTime": 133.76,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 490,
+            "text": "also",
+            "startTime": 133.85,
+            "endTime": 133.95,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 491,
+            "text": "they",
+            "startTime": 134.04,
+            "endTime": 134.14,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 492,
+            "text": "didn't",
+            "startTime": 134.23,
+            "endTime": 134.33,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 493,
+            "text": "tell",
+            "startTime": 134.42,
+            "endTime": 134.52,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 494,
+            "text": "us",
+            "startTime": 134.61,
+            "endTime": 134.71,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 495,
+            "text": "like",
+            "startTime": 134.8,
+            "endTime": 134.9,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 496,
+            "text": "I",
+            "startTime": 135.0,
+            "endTime": 135.09,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 497,
+            "text": "would",
+            "startTime": 135.19,
+            "endTime": 135.28,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 498,
+            "text": "have",
+            "startTime": 135.38,
+            "endTime": 135.47,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 499,
+            "text": "parked",
+            "startTime": 135.57,
+            "endTime": 135.66,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 500,
+            "text": "on",
+            "startTime": 135.76,
+            "endTime": 135.85,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 501,
+            "text": "a",
+            "startTime": 135.95,
+            "endTime": 136.04,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 502,
+            "text": "different",
+            "startTime": 136.14,
+            "endTime": 136.24,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 503,
+            "text": "street",
+            "startTime": 136.33,
+            "endTime": 136.43,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 504,
+            "text": "if",
+            "startTime": 136.52,
+            "endTime": 136.62,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 505,
+            "text": "it",
+            "startTime": 136.71,
+            "endTime": 136.81,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 506,
+            "text": "was",
+            "startTime": 136.9,
+            "endTime": 137.0,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 507,
+            "text": "a",
+            "startTime": 137.09,
+            "endTime": 137.19,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 508,
+            "text": "problem.",
+            "startTime": 137.28,
+            "endTime": 137.38,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 509,
+            "text": "Except",
+            "startTime": 137.38,
+            "endTime": 137.53,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 510,
+            "text": "there's",
+            "startTime": 137.68,
+            "endTime": 137.83,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 511,
+            "text": "no",
+            "startTime": 137.98,
+            "endTime": 138.13,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 512,
+            "text": "street",
+            "startTime": 138.28,
+            "endTime": 138.43,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 513,
+            "text": "parking",
+            "startTime": 138.58,
+            "endTime": 138.73,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 514,
+            "text": "because",
+            "startTime": 138.88,
+            "endTime": 139.03,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 515,
+            "text": "it's",
+            "startTime": 139.18,
+            "endTime": 139.33,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 516,
+            "text": "specific",
+            "startTime": 139.47,
+            "endTime": 139.62,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 517,
+            "text": "and",
+            "startTime": 139.77,
+            "endTime": 139.92,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 518,
+            "text": "everybody",
+            "startTime": 140.07,
+            "endTime": 140.22,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 519,
+            "text": "has",
+            "startTime": 140.37,
+            "endTime": 140.52,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 520,
+            "text": "too",
+            "startTime": 140.67,
+            "endTime": 140.82,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 521,
+            "text": "many",
+            "startTime": 140.97,
+            "endTime": 141.12,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 522,
+            "text": "cars.",
+            "startTime": 141.27,
+            "endTime": 141.42,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 523,
+            "text": "So",
+            "startTime": 141.6,
+            "endTime": 141.93,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 524,
+            "text": "anyway,",
+            "startTime": 142.26,
+            "endTime": 142.59,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 525,
+            "text": "I'm",
+            "startTime": 142.93,
+            "endTime": 143.26,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 526,
+            "text": "grumpy.",
+            "startTime": 143.59,
+            "endTime": 143.92,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 527,
+            "text": "Prisoner",
+            "startTime": 144.4,
+            "endTime": 144.52,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 528,
+            "text": "in",
+            "startTime": 144.63,
+            "endTime": 144.75,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 529,
+            "text": "your",
+            "startTime": 144.86,
+            "endTime": 144.98,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 530,
+            "text": "own",
+            "startTime": 145.09,
+            "endTime": 145.21,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 531,
+            "text": "home.",
+            "startTime": 145.32,
+            "endTime": 145.44,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 532,
+            "text": "Look,",
+            "startTime": 146.34,
+            "endTime": 146.46,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 533,
+            "text": "I",
+            "startTime": 146.58,
+            "endTime": 146.7,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 534,
+            "text": "went",
+            "startTime": 146.82,
+            "endTime": 146.94,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 535,
+            "text": "up.",
+            "startTime": 147.06,
+            "endTime": 147.18,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 536,
+            "text": "I",
+            "startTime": 147.26,
+            "endTime": 147.37,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 537,
+            "text": "went",
+            "startTime": 147.47,
+            "endTime": 147.58,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 538,
+            "text": "out",
+            "startTime": 147.69,
+            "endTime": 147.8,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 539,
+            "text": "this",
+            "startTime": 147.9,
+            "endTime": 148.01,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 540,
+            "text": "morning",
+            "startTime": 148.12,
+            "endTime": 148.22,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 541,
+            "text": "because",
+            "startTime": 148.33,
+            "endTime": 148.44,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 542,
+            "text": "it's",
+            "startTime": 148.54,
+            "endTime": 148.65,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 543,
+            "text": "supposed",
+            "startTime": 148.76,
+            "endTime": 148.87,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 544,
+            "text": "to",
+            "startTime": 148.97,
+            "endTime": 149.08,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 545,
+            "text": "start",
+            "startTime": 149.19,
+            "endTime": 149.29,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 546,
+            "text": "at",
+            "startTime": 149.4,
+            "endTime": 149.51,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 547,
+            "text": "eight",
+            "startTime": 149.61,
+            "endTime": 149.72,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 548,
+            "text": "and",
+            "startTime": 149.83,
+            "endTime": 149.94,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 549,
+            "text": "I",
+            "startTime": 150.04,
+            "endTime": 150.15,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 550,
+            "text": "went",
+            "startTime": 150.26,
+            "endTime": 150.36,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 551,
+            "text": "out",
+            "startTime": 150.47,
+            "endTime": 150.58,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 552,
+            "text": "at",
+            "startTime": 150.68,
+            "endTime": 150.79,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 553,
+            "text": "755",
+            "startTime": 150.9,
+            "endTime": 151.01,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 554,
+            "text": "to",
+            "startTime": 151.11,
+            "endTime": 151.22,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 555,
+            "text": "move",
+            "startTime": 151.33,
+            "endTime": 151.43,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 556,
+            "text": "the",
+            "startTime": 151.54,
+            "endTime": 151.65,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 557,
+            "text": "car",
+            "startTime": 151.75,
+            "endTime": 151.86,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 558,
+            "text": "and",
+            "startTime": 151.97,
+            "endTime": 152.08,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 559,
+            "text": "they'd",
+            "startTime": 152.18,
+            "endTime": 152.29,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 560,
+            "text": "already",
+            "startTime": 152.4,
+            "endTime": 152.5,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 561,
+            "text": "blocked",
+            "startTime": 152.61,
+            "endTime": 152.72,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 562,
+            "text": "off",
+            "startTime": 152.82,
+            "endTime": 152.93,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 563,
+            "text": "my",
+            "startTime": 153.04,
+            "endTime": 153.15,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 564,
+            "text": "driveway.",
+            "startTime": 153.25,
+            "endTime": 153.36,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 565,
+            "text": "I",
+            "startTime": 153.48,
+            "endTime": 153.53,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 566,
+            "text": "was",
+            "startTime": 153.59,
+            "endTime": 153.64,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 567,
+            "text": "like,",
+            "startTime": 153.7,
+            "endTime": 153.75,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 568,
+            "text": "hey,",
+            "startTime": 153.81,
+            "endTime": 153.86,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 569,
+            "text": "man,",
+            "startTime": 153.91,
+            "endTime": 153.97,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 570,
+            "text": "you",
+            "startTime": 154.02,
+            "endTime": 154.08,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 571,
+            "text": "got",
+            "startTime": 154.13,
+            "endTime": 154.19,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 572,
+            "text": "to",
+            "startTime": 154.24,
+            "endTime": 154.29,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 573,
+            "text": "move",
+            "startTime": 154.35,
+            "endTime": 154.4,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 574,
+            "text": "the",
+            "startTime": 154.46,
+            "endTime": 154.51,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 575,
+            "text": "pipe.",
+            "startTime": 154.57,
+            "endTime": 154.62,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 576,
+            "text": "I",
+            "startTime": 154.68,
+            "endTime": 154.76,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 577,
+            "text": "got",
+            "startTime": 154.83,
+            "endTime": 154.91,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 578,
+            "text": "to",
+            "startTime": 154.98,
+            "endTime": 155.06,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 579,
+            "text": "get",
+            "startTime": 155.13,
+            "endTime": 155.21,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 580,
+            "text": "out.",
+            "startTime": 155.28,
+            "endTime": 155.36,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 581,
+            "text": "That's",
+            "startTime": 156.28,
+            "endTime": 156.48,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 582,
+            "text": "just",
+            "startTime": 156.67,
+            "endTime": 156.87,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 583,
+            "text": "uncouth.",
+            "startTime": 157.06,
+            "endTime": 157.26,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 584,
+            "text": "Yeah.",
+            "startTime": 157.56,
+            "endTime": 157.8,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 585,
+            "text": "Like",
+            "startTime": 157.9,
+            "endTime": 158.05,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 586,
+            "text": "you're",
+            "startTime": 158.19,
+            "endTime": 158.34,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 587,
+            "text": "five",
+            "startTime": 158.49,
+            "endTime": 158.63,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 588,
+            "text": "minutes",
+            "startTime": 158.78,
+            "endTime": 158.93,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 589,
+            "text": "early.",
+            "startTime": 159.07,
+            "endTime": 159.22,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 590,
+            "text": "It's",
+            "startTime": 159.4,
+            "endTime": 159.59,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 591,
+            "text": "fine.",
+            "startTime": 159.79,
+            "endTime": 159.98,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 592,
+            "text": "Whatever.",
+            "startTime": 160.06,
+            "endTime": 160.34,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 593,
+            "text": "But",
+            "startTime": 160.34,
+            "endTime": 160.46,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 594,
+            "text": "move",
+            "startTime": 160.58,
+            "endTime": 160.7,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 595,
+            "text": "the",
+            "startTime": 160.82,
+            "endTime": 160.94,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 596,
+            "text": "fucking",
+            "startTime": 161.06,
+            "endTime": 161.18,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 597,
+            "text": "pipe.",
+            "startTime": 161.3,
+            "endTime": 161.42,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 598,
+            "text": "I",
+            "startTime": 161.48,
+            "endTime": 161.56,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 599,
+            "text": "don't",
+            "startTime": 161.64,
+            "endTime": 161.72,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 600,
+            "text": "want",
+            "startTime": 161.8,
+            "endTime": 161.88,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 601,
+            "text": "to",
+            "startTime": 161.96,
+            "endTime": 162.04,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 602,
+            "text": "hear",
+            "startTime": 162.12,
+            "endTime": 162.2,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 603,
+            "text": "anything",
+            "startTime": 162.28,
+            "endTime": 162.36,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 604,
+            "text": "about",
+            "startTime": 162.44,
+            "endTime": 162.52,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 605,
+            "text": "it.",
+            "startTime": 162.6,
+            "endTime": 162.68,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 606,
+            "text": "And",
+            "startTime": 162.88,
+            "endTime": 163.08,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 607,
+            "text": "no",
+            "startTime": 163.28,
+            "endTime": 163.48,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 608,
+            "text": "water",
+            "startTime": 163.67,
+            "endTime": 163.87,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 609,
+            "text": "between",
+            "startTime": 164.07,
+            "endTime": 164.27,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 610,
+            "text": "eight",
+            "startTime": 164.47,
+            "endTime": 164.67,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 611,
+            "text": "and",
+            "startTime": 164.86,
+            "endTime": 165.06,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 612,
+            "text": "five.",
+            "startTime": 165.26,
+            "endTime": 165.46,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 613,
+            "text": "That's",
+            "startTime": 165.46,
+            "endTime": 165.59,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 614,
+            "text": "kind",
+            "startTime": 165.72,
+            "endTime": 165.85,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 615,
+            "text": "of",
+            "startTime": 165.98,
+            "endTime": 166.11,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 616,
+            "text": "a",
+            "startTime": 166.24,
+            "endTime": 166.37,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 617,
+            "text": "tall",
+            "startTime": 166.51,
+            "endTime": 166.64,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 618,
+            "text": "order,",
+            "startTime": 166.77,
+            "endTime": 166.9,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 619,
+            "text": "I",
+            "startTime": 167.03,
+            "endTime": 167.16,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 620,
+            "text": "think.",
+            "startTime": 167.29,
+            "endTime": 167.42,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 621,
+            "text": "But",
+            "startTime": 167.78,
+            "endTime": 167.89,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 622,
+            "text": "well,",
+            "startTime": 168.01,
+            "endTime": 168.12,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 623,
+            "text": "I",
+            "startTime": 168.23,
+            "endTime": 168.35,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 624,
+            "text": "mean,",
+            "startTime": 168.46,
+            "endTime": 168.58,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 625,
+            "text": "I",
+            "startTime": 168.69,
+            "endTime": 168.8,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 626,
+            "text": "guess",
+            "startTime": 168.92,
+            "endTime": 169.03,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 627,
+            "text": "specifically",
+            "startTime": 169.14,
+            "endTime": 169.26,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 628,
+            "text": "it's",
+            "startTime": 169.37,
+            "endTime": 169.49,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 629,
+            "text": "don't",
+            "startTime": 169.6,
+            "endTime": 169.71,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 630,
+            "text": "put",
+            "startTime": 169.83,
+            "endTime": 169.94,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 631,
+            "text": "anything",
+            "startTime": 170.05,
+            "endTime": 170.17,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 632,
+            "text": "in",
+            "startTime": 170.28,
+            "endTime": 170.4,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 633,
+            "text": "the",
+            "startTime": 170.51,
+            "endTime": 170.62,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 634,
+            "text": "sewer",
+            "startTime": 170.74,
+            "endTime": 170.85,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 635,
+            "text": "between",
+            "startTime": 170.96,
+            "endTime": 171.08,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 636,
+            "text": "eight",
+            "startTime": 171.19,
+            "endTime": 171.31,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 637,
+            "text": "and",
+            "startTime": 171.42,
+            "endTime": 171.53,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 638,
+            "text": "five.",
+            "startTime": 171.65,
+            "endTime": 171.76,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 639,
+            "text": "I",
+            "startTime": 172.1,
+            "endTime": 172.21,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 640,
+            "text": "see.",
+            "startTime": 172.31,
+            "endTime": 172.42,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 641,
+            "text": "So",
+            "startTime": 172.84,
+            "endTime": 172.94,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 642,
+            "text": "like,",
+            "startTime": 173.05,
+            "endTime": 173.15,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 643,
+            "text": "you",
+            "startTime": 173.26,
+            "endTime": 173.36,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 644,
+            "text": "know,",
+            "startTime": 173.46,
+            "endTime": 173.57,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 645,
+            "text": "I",
+            "startTime": 173.67,
+            "endTime": 173.78,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 646,
+            "text": "took",
+            "startTime": 173.88,
+            "endTime": 173.98,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 647,
+            "text": "a",
+            "startTime": 174.09,
+            "endTime": 174.19,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 648,
+            "text": "shower.",
+            "startTime": 174.3,
+            "endTime": 174.4,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 649,
+            "text": "I",
+            "startTime": 175.66,
+            "endTime": 175.91,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 650,
+            "text": "flushed",
+            "startTime": 176.16,
+            "endTime": 176.41,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 651,
+            "text": "the",
+            "startTime": 176.65,
+            "endTime": 176.9,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 652,
+            "text": "toilet.",
+            "startTime": 177.15,
+            "endTime": 177.4,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 653,
+            "text": "OK.",
+            "startTime": 178.06,
+            "endTime": 178.36,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 654,
+            "text": "I",
+            "startTime": 178.64,
+            "endTime": 178.73,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 655,
+            "text": "sent",
+            "startTime": 178.81,
+            "endTime": 178.9,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 656,
+            "text": "him",
+            "startTime": 178.99,
+            "endTime": 179.07,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 657,
+            "text": "a",
+            "startTime": 179.16,
+            "endTime": 179.25,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 658,
+            "text": "gift.",
+            "startTime": 179.33,
+            "endTime": 179.42,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 659,
+            "text": "I",
+            "startTime": 179.72,
+            "endTime": 179.83,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 660,
+            "text": "see.",
+            "startTime": 179.95,
+            "endTime": 180.06,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 661,
+            "text": "Well,",
+            "startTime": 181.28,
+            "endTime": 181.42,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 662,
+            "text": "I",
+            "startTime": 181.56,
+            "endTime": 181.7,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 663,
+            "text": "expressed",
+            "startTime": 181.84,
+            "endTime": 181.98,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 664,
+            "text": "my",
+            "startTime": 182.12,
+            "endTime": 182.26,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 665,
+            "text": "displeasure",
+            "startTime": 182.4,
+            "endTime": 182.54,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 666,
+            "text": "the",
+            "startTime": 182.68,
+            "endTime": 182.82,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 667,
+            "text": "only",
+            "startTime": 182.96,
+            "endTime": 183.1,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 668,
+            "text": "way",
+            "startTime": 183.24,
+            "endTime": 183.38,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 669,
+            "text": "I",
+            "startTime": 183.52,
+            "endTime": 183.66,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 670,
+            "text": "know",
+            "startTime": 183.8,
+            "endTime": 183.94,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 671,
+            "text": "how",
+            "startTime": 184.08,
+            "endTime": 184.22,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 672,
+            "text": "with",
+            "startTime": 184.36,
+            "endTime": 184.5,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 673,
+            "text": "feces.",
+            "startTime": 184.64,
+            "endTime": 184.78,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 674,
+            "text": "Welcome.",
+            "startTime": 184.78,
+            "endTime": 186.5,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 675,
+            "text": "Welcome",
+            "startTime": 186.5,
+            "endTime": 188.25,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 676,
+            "text": "to",
+            "startTime": 190.0,
+            "endTime": 191.76,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 677,
+            "text": "Brad",
+            "startTime": 193.51,
+            "endTime": 195.26,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 678,
+            "text": "and",
+            "startTime": 197.01,
+            "endTime": 198.76,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 679,
+            "text": "Will",
+            "startTime": 200.51,
+            "endTime": 202.27,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 680,
+            "text": "made",
+            "startTime": 204.02,
+            "endTime": 205.77,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 681,
+            "text": "a",
+            "startTime": 207.52,
+            "endTime": 209.27,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 682,
+            "text": "tech",
+            "startTime": 211.02,
+            "endTime": 212.78,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 683,
+            "text": "pod.",
+            "startTime": 214.53,
+            "endTime": 216.28,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 684,
+            "text": "I'm",
+            "startTime": 216.28,
+            "endTime": 216.41,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 685,
+            "text": "Will.",
+            "startTime": 216.55,
+            "endTime": 216.68,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 686,
+            "text": "I'm",
+            "startTime": 216.94,
+            "endTime": 217.15,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 687,
+            "text": "Brad.",
+            "startTime": 217.37,
+            "endTime": 217.58,
+            "speaker": "Brad"
+        },
+        {
+            "wordIDX": 688,
+            "text": "Yeah,",
+            "startTime": 218.08,
+            "endTime": 218.18,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 689,
+            "text": "that's",
+            "startTime": 218.28,
+            "endTime": 218.38,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 690,
+            "text": "a",
+            "startTime": 218.48,
+            "endTime": 218.58,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 691,
+            "text": "hell",
+            "startTime": 218.68,
+            "endTime": 218.78,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 692,
+            "text": "of",
+            "startTime": 218.88,
+            "endTime": 218.98,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 693,
+            "text": "a",
+            "startTime": 219.08,
+            "endTime": 219.18,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 694,
+            "text": "cold",
+            "startTime": 219.28,
+            "endTime": 219.38,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 695,
+            "text": "open,",
+            "startTime": 219.48,
+            "endTime": 219.58,
+            "speaker": "Will"
+        },
+        {
+            "wordIDX": 696,
+            "text": "huh?",
+            "startTime": 219.68,
+            "endTime": 219.78,
+            "speaker": "Will"
+        }
+    ]
+}

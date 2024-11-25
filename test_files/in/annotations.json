@@ -1,0 +1,20 @@
+{
+	"annotations": [
+		{
+			"id": "Introductions",
+			"startWordIndex": 674,
+			"endWordIndex": 687
+		},
+		{
+			"id": "StoryStart",
+			"startWordIndex": 9,
+			"endWordIndex": 17
+		}
+	],
+	"metadata": {
+		"ids": [
+			"Introductions",
+			"StoryStart"
+		]
+	}
+}
