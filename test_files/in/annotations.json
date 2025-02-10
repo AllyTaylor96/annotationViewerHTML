@@ -9,12 +9,23 @@
 			"id": "StoryStart",
 			"startWordIndex": 9,
 			"endWordIndex": 17
+		},
+		{
+			"id": "ColdOpen",
+			"startWordIndex": 246,
+			"endWordIndex": 254
+		},
+		{
+			"id": "ColdOpen",
+			"startWordIndex": 688,
+			"endWordIndex": 696
 		}
 	],
 	"metadata": {
 		"ids": [
 			"Introductions",
-			"StoryStart"
+			"StoryStart",
+			"ColdOpen"
 		]
 	}
 }
