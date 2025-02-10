@@ -3,9 +3,8 @@ import logging
 import os
 from pathlib import Path
 
-from airium import Airium
-
 from io_functions import load_json, write_json
+from generate_html import generate_html, save_static_html
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description='Create a HTML displaying annotations on text.')
@@ -49,11 +48,23 @@ def main():
     logger = configure_logging()
     args = parse_args()
 
-    # general steps are to
-    # bring in the transcript + annotations
-    # map between them
-    # output to HTML in a usable sensible format using Airium
+    logger.info('Loading transcript and annotations...')
+    logger.debug(f'Transcript file: {args.transcript_file}')
+    logger.debug(f'Annotation file: {args.annotation_file}')
 
+    file_id = args.transcript_file.split('/')[-1].split('.')[0]
+    logger.info(f'File ID: {file_id}')
+
+    transcript = load_json(args.transcript_file)
+    entities = load_json(args.annotation_file)
+
+    logger.info(f'Creating the HTML file...')
+    generated_html = generate_html(file_id, transcript, entities)
+
+    output_filepath = Path(args.output_dir) / 'annotated_transcript.html'
+    save_static_html(output_filepath, generated_html)
+
+    logger.info(f'HTML file saved to: {output_filepath}')
 
 if __name__ == "__main__":
     main()
