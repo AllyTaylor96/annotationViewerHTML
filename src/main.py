@@ -27,8 +27,12 @@ def configure_logging() -> logging.Logger:
     console_handler = logging.StreamHandler()
     console_handler.setLevel(logging.INFO)
 
+    # create log dir if not there
+    log_dir = Path(os.getcwd()) / 'logs'
+    log_dir.mkdir(parents=True, exist_ok=True)
+
     # set up console to output to log file
-    file_handler = logging.FileHandler(f'{os.getcwd()}/logs/create_html.log',
+    file_handler = logging.FileHandler(f'{str(log_dir)}/create_html.log',
                                       mode = 'w')
     file_handler.setLevel(logging.DEBUG)
 
